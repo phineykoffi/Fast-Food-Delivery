@@ -4,8 +4,7 @@ A Propos
 Fast-Food est une application de commandes de plats en ligne, simple et intuitive avec des nombreuses fonctionnalités client et administration idéale pour gérer un fast-food ou snack.
 
 # Fonctionnalités
-Interface client
-## Liste des fonctionnalités :
+### Interface client :
 
 - Gestion intuitive du site
 - Création de plusieurs succursales
