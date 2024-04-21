@@ -3,10 +3,10 @@ A Propos
 
 Fast-Food est une application de commandes de plats en ligne, simple et intuitive avec des nombreuses fonctionnalités client et administration idéale pour gérer un fast-food ou snack.
 
-# Langages utilisés
+## Langages utilisés
 PHP 7, Ajax, Javascript, Jquery, DomPDF
 
-# Liste des fonctionnalités :
+## Liste des fonctionnalités :
 ### Interface client :
 
 - Gestion intuitive du site
